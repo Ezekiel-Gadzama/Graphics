@@ -1,0 +1,14 @@
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/CMakeFiles/acg_in_gd_lab.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/CMakeFiles/INSTALL.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/CMakeFiles/ALL_BUILD.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glfw/CMakeFiles/uninstall.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glfw/CMakeFiles/INSTALL.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glm/CMakeFiles/INSTALL.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glm/glm/CMakeFiles/glm.dir
+C:/Users/ezeki/advanced-computer-graphics-in-game-development/external/glm/glm/CMakeFiles/INSTALL.dir
